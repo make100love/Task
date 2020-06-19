@@ -58,6 +58,10 @@ const repositories = [
     url: "https://github.com/Peng-YM/QuanX",
   },
   {
+    name: "Gx3dong",
+    url: "https://github.com/Gx3dong/Surge/tree/master/JS",
+  },
+  {
     name: "yichahucha",
     url: "https://github.com/yichahucha/surge",
   },
